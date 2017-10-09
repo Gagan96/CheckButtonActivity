@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inversor</string>
+    <string name="Text">editText</string>
+    <string name="Inverse">Inverse</string>
+    <string name="Capital_Letters">capLet</string>
+    <string name="capLet">Capital Letters</string>
+    <string name="sendme">SEND ME</string>
+    <string name="editSub" />
+</resources>
